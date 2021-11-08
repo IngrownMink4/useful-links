@@ -34,10 +34,6 @@ html {
   -webkit-border-radius: 100px;
 }
 
-    ::selection {
-    background-color: #ffd681;
-    color: #110b2b;
-}
 
 ::-webkit-scrollbar {
     width: 15px;
